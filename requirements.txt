@@ -6,3 +6,4 @@ base58==2.1.0
 Markdown==3.3.3
 seaborn==0.11.1
 matplotlib==3.3.2
+ta==0.7.0
